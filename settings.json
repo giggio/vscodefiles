@@ -1,0 +1,9 @@
+// Place your settings in this file to overwrite the default settings
+{
+    "editor.fontLigatures": true,
+    "editor.fontSize": 16,
+    "editor.fontFamily": "Fira Code",
+    "terminal.external.windowsExec": "powershell",
+    "terminal.integrated.shell.windows": "C:\\WINDOWS\\system32\\WindowsPowerShell\\v1.0\\powershell.exe",
+    "editor.mouseWheelZoom": true
+}
